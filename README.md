@@ -1,6 +1,7 @@
 ## Hi 👋 I'm lsdyi — but you can call me **Zee**
 
 ### 🌍 Based in Stockholm, Sweden  
+🏙️ Previously lived in **Shenzhen**, **Xi’an**, and **Jingzhou**, China  
 📫 Reach me via [Email](mailto:yangjinzhehao123@outlook.com) or [X (formerly Twitter)](https://x.com/lsdyizingeryang)  
 💻 Find my work and projects on [GitHub](https://github.com/lsdyi) — tracking my learning + open source contributions
 
