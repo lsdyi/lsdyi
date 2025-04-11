@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi 👋 I'm lsdyi — but you can call me **Zee**
 
-<!--
-**lsdyi/lsdyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 Based in Stockholm, Sweden  
+📫 Reach me via [Email](mailto:yangjinzhehao123@outlook.com) or [X (formerly Twitter)](https://x.com/lsdyizingeryang)  
+💻 Find my work and projects on [GitHub](https://github.com/lsdyi) — tracking my learning + open source contributions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Web Developer
+
+- Worked full-time as a front-end developer from **2021 to 2024**
+- Specialized in **JavaScript (JS)**, **TypeScript (TS)**, **CSS**, and **HTML**
+- Built responsive **UI applications** with attention to performance and user experience  
+- Experience with **JS bundlers**, **compilers**, and the build tooling ecosystem
+
+---
+
+### 🤖 Machine Learning Engineer (in progress)
+
+- Currently pursuing a **Master’s degree**
+- Interested in **statistics**, **machine learning**, and intelligent systems  
+- Actively learning, building, and sharing my journey through open source
